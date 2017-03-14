@@ -23,7 +23,7 @@
    position: relative;
 }
 .view h2 {
-	font-family: "Boogaloo" !important;
+	font-family: "Roboto" !important;
    text-transform: uppercase;
    color: #fff;
    text-align: center;
@@ -45,7 +45,7 @@
    text-align: center;
 }
 .view a.info {
-	font-family: "Boogaloo" !important;	
+	font-family: "Roboto" !important;	
    display: inline-block;
    text-decoration: none;
    padding: 7px 14px;

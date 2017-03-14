@@ -88,6 +88,7 @@
 	});
 	$(".Certificaciones").click(function(){
 		$("#Certificaciones").show("slow");
+		$("#Contacto").hide("slow");
 		$("#Inicio").hide("slow");
 		$("#Mision").hide("slow");
 		$("#Vision").hide("slow");
@@ -100,7 +101,7 @@
 		$("#Aviso").hide("slow");
 	});
 	$(".Clientes").click(function(){
-		$("#Clientes").show("slow");
+		$("#Clientes").show("0");
 		$("#Inicio").hide("slow");
 		$("#Mision").hide("slow");
 		$("#Vision").hide("slow");

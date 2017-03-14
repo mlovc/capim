@@ -352,7 +352,7 @@
     *margin-left: 16.98763411529369%;
   }
   .row-fluid .offset1 {
-    margin-left: 11.11111111111111%;
+    margin-left: 11.EDE9A3EDE9A311%;
     *margin-left: 11.004728132387708%;
   }
   .row-fluid .offset1:first-child {
@@ -981,7 +981,7 @@
   }
   .navbar-inverse .nav-collapse .nav > li > a:hover,
   .navbar-inverse .nav-collapse .dropdown-menu a:hover {
-    background-color: #111111;
+    background-color: #EDE9A3;
   }
   .nav-collapse.in .btn-group {
     padding: 0;
@@ -1029,8 +1029,8 @@
   }
   .navbar-inverse .nav-collapse .navbar-form,
   .navbar-inverse .nav-collapse .navbar-search {
-    border-top-color: #111111;
-    border-bottom-color: #111111;
+    border-top-color: #EDE9A3;
+    border-bottom-color: #EDE9A3;
   }
   .navbar .nav-collapse .nav.pull-right {
     float: none;
